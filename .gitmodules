@@ -1,0 +1,21 @@
+[submodule "sites/all/libraries/colorbox"]
+	path = sites/all/libraries/colorbox
+	url = https://github.com/jackmoore/colorbox.git
+[submodule "sites/all/modules/aranea_base"]
+	path = sites/all/modules/aranea_base
+	url = git@project.aranea.ws:septianw/aranea_base.git
+[submodule "sites/all/modules/aranea_blog"]
+	path = sites/all/modules/aranea_blog
+	url = https://github.com/araneaws/aranea_blog.git
+[submodule "sites/all/modules/aranea_gallery"]
+	path = sites/all/modules/aranea_gallery
+	url = git@project.aranea.ws:septianw/gallery.git
+[submodule "sites/all/modules/bintangtimur_alumni"]
+	path = sites/all/modules/bintangtimur_alumni
+	url = git@project.aranea.ws:septianw/bintangtimur_alumni.git
+[submodule "sites/all/modules/bintangtimur_settings"]
+	path = sites/all/modules/bintangtimur_settings
+	url = ssh://git@bitbucket.org/septianw/bintangtimur-settings.git
+[submodule "sites/all/modules/bintangtimur_views"]
+	path = sites/all/modules/bintangtimur_views
+	url = ssh://git@bitbucket.org/septianw/bintangtimur-views.git
