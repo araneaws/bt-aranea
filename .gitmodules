@@ -15,7 +15,7 @@
 	url = git@project.aranea.ws:septianw/bintangtimur_alumni.git
 [submodule "sites/all/modules/bintangtimur_settings"]
 	path = sites/all/modules/bintangtimur_settings
-	url = ssh://git@bitbucket.org/septianw/bintangtimur-settings.git
+	url = https://septianw@bitbucket.org/septianw/bintangtimur-settings.git
 [submodule "sites/all/modules/bintangtimur_views"]
 	path = sites/all/modules/bintangtimur_views
-	url = ssh://git@bitbucket.org/septianw/bintangtimur-views.git
+	url = https://septianw@bitbucket.org/septianw/bintangtimur-views.git
