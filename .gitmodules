@@ -13,9 +13,3 @@
 [submodule "sites/all/modules/bintangtimur_alumni"]
 	path = sites/all/modules/bintangtimur_alumni
 	url = git@project.aranea.ws:septianw/bintangtimur_alumni.git
-[submodule "sites/all/modules/bintangtimur_settings"]
-	path = sites/all/modules/bintangtimur_settings
-	url = https://septianw@bitbucket.org/septianw/bintangtimur-settings.git
-[submodule "sites/all/modules/bintangtimur_views"]
-	path = sites/all/modules/bintangtimur_views
-	url = https://septianw@bitbucket.org/septianw/bintangtimur-views.git
