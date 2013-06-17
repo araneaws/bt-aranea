@@ -5,6 +5,11 @@ sites/*/settings*.php
 sites/*/files
 sites/*/private
 sites/sites.php
+sites/*
+!sites/all/
+!sites/default/
+!sites/example.sites.php
+!sites/README.txt
 drushrc.php
 sites/*/drushrc.php
 cache
