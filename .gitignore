@@ -7,3 +7,4 @@ sites/*/private
 sites/sites.php
 drushrc.php
 sites/*/drushrc.php
+cache
