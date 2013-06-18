@@ -64,7 +64,12 @@
   float: left;
   line-height: 1.2;
   margin-bottom: 1em;
+  margin-left: 5px;
   padding-top: 17px;
+}
+
+html.js body.html div#page.page-default div#header-wrapper.wrapper div.container div.grid-inner div#header.clearfix div#name-and-slogan.hgroup h1.site-name a {
+  color: #285081;
 }
 
 .site-name {
@@ -83,7 +88,7 @@
 .site-name a:hover,
 .site-name a:focus,
 .site-name a:active {
-  color: #007fc8;
+  color: #285081;
   text-decoration: none;
 }
 
