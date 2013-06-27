@@ -515,3 +515,21 @@ body.not-logged-in .block-node table td.delete {
 * Uses the class .lb-s {
 }
 */
+
+html.js body.html div#page.page-default div#slideshow-wrapper.wrapper div.container div.grid-inner div.region div#block-views-berita-block-2.block div.block-inner div.block-content div.view div.view-content div.view div.view-content div div.liScroll-container {
+  height: 45px;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  width: 960px;
+}
+
+
+html.js body.html div#page.page-default div#slideshow-wrapper.wrapper div.container div.grid-inner div.region div#block-views-berita-block-2.block div.block-inner div.block-content div.view div.view-content div.view div.view-content div div.liScroll-container div.mask {
+  overflow: hidden;
+  padding: 8px;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  width: 960px;
+}

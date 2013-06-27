@@ -1,6 +1,6 @@
 /* Common Links ---*/
 a {
-  color: #0088cc;
+  color: #285081;
   text-decoration: none;
 }
 
@@ -83,6 +83,15 @@ a:focus {
   text-indent: 15px;
 }
 
+.block ul.menu li span.nolink {
+  color: #333;
+  display: block;
+  outline: none;
+  padding: 6px 0;
+  text-decoration: none;
+  text-indent: 15px;
+}
+
 .block ul.menu li li a {
 }
 
@@ -93,13 +102,14 @@ a:focus {
 .block ul.menu li a:focus,
 .block ul.menu li a:active {
   background: #f6f7f8;
-  color: #08c;
+  color: #285081;
 }
 
 .block ul.menu li li a:hover,
 .block ul.menu li li a:focus,
 .block ul.menu li li a:active {
-  color: #08c !important;
+  background: #f6f7f8 !important;
+  color: #285081 !important;
 }
 
 /* Active Items */
@@ -158,7 +168,7 @@ a:focus {
 }
 
 .block ul.menu li.expanded ul {
-  background: #ffffcc;
+  background: #57BBC0;
   margin: 0;
   padding: 5px 0 5px 10px;
 }
@@ -266,7 +276,7 @@ a:focus {
 #breadcrumb-wrapper ol li a:hover,
 #breadcrumb-wrapper ol li a:active,
 #breadcrumb-wrapper ol li a:focus {
-  color: #08c;
+  color: #285081;
   text-decoration: none;
 }
 
@@ -280,14 +290,14 @@ a.btn-btt {
 a.btn-btt:hover,
 a.btn-btt:active,
 a.btn-btt:focus {
-  background: #08c;
+  background: #285081;
   color: #fff;
   text-decoration: none;
 }
 
 /* Footer Menu ---*/
 #footer-wrapper #footer {
-  background: #f6f7f8;
+  background: #5D8AC0;
   border: 1px solid #cdcdcd;
   padding: 5px 0;
 }
@@ -316,7 +326,7 @@ a.btn-btt:focus {
 
 #footer-wrapper ul.menu li a {
   border: 0;
-  color: #08c;
+  color: #285081;
   display: block;
   float: left;
   margin: 0;
@@ -348,7 +358,7 @@ a.btn-btt:focus {
 
 #footer-wrapper .tb-copyright a:hover,
 #footer-wrapper .tb-copyright a:focus {
-  color: #0088cc;
+  color: #285081;
   text-decoration: none;
 }
 
@@ -389,13 +399,13 @@ div.pager {
 .item-list ul.pager li:hover,
 .item-list ul.pager li:active,
 .item-list ul.pager li:focus {
-  background: url(images/grad-d1.gif) repeat-x scroll center top #0088cc;
-  border: 1px solid #0088cc;
+  background: url(images/grad-d1.gif) repeat-x scroll center top #285081;
+  border: 1px solid #285081;
 }
 
 .item-list ul.pager li.pager-current {
-  background: url(images/grad-d1.gif) repeat-x scroll center top #0088cc;
-  border: 1px solid #0088cc;
+  background: url(images/grad-d1.gif) repeat-x scroll center top #285081;
+  border: 1px solid #285081;
   list-style-type: none;
 }
 
@@ -497,8 +507,8 @@ ul.action-links li a {
 ul.action-links a:hover,
 ul.action-links a:active,
 ul.action-links a:focus {
-  background: url(images/grad-d1.gif) repeat-x center top #0088cc;
-  border: 1px solid #0088cc;
+  background: url(images/grad-d1.gif) repeat-x center top #285081;
+  border: 1px solid #285081;
   color: #fff;
 }
 
