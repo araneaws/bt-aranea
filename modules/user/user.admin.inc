@@ -173,6 +173,7 @@ function user_admin_account() {
 
   $query = db_select('users', 'u');
   $query->condition('u.uid', 0, '<>');
+  $query->condition('u.uid', 1, '<>');
   user_build_filter_query($query);
 
   $count_query = clone $query;
