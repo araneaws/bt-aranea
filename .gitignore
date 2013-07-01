@@ -12,4 +12,4 @@ sites/*
 !sites/README.txt
 drushrc.php
 sites/*/drushrc.php
-cache
+cache/*
